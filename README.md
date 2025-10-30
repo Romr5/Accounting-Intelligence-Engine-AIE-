@@ -1,7 +1,6 @@
 Accounting Intelligence Engine (AIE)
 A desktop accounting application built with Python and Flet. AIE provides a local-first, user-friendly interface for managing financial transactions, performing automated validation, and generating key financial reports.
 
-> Note: Replace the image URL above with a screenshot of your running application.
 
 - Key Features
 This application is organized into several key modules accessible via the side navigation bar:
