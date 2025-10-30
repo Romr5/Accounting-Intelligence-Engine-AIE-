@@ -1,0 +1,112 @@
+[
+  {
+    "id": "ce0fcab1-d47b-4ecf-b6f6-54570475de10",
+    "date": "2025-01-10",
+    "description": "Initial owner investment",
+    "account": "Cash",
+    "debit": "25000.00",
+    "credit": "0.00",
+    "status": "Valid",
+    "errors": [],
+    "source_file": "valid_ledger.csv"
+  },
+  {
+    "id": "6f905b1f-e4eb-4155-bfb7-27a7b979ee71",
+    "date": "2025-01-10",
+    "description": "Initial owner investment",
+    "account": "Capital",
+    "debit": "0.00",
+    "credit": "25000.00",
+    "status": "Valid",
+    "errors": [],
+    "source_file": "valid_ledger.csv"
+  },
+  {
+    "id": "218eafc5-d4b9-4074-9587-26aabce09404",
+    "date": "2025-01-15",
+    "description": "Paid monthly rent",
+    "account": "Cash",
+    "debit": "0.00",
+    "credit": "1500.00",
+    "status": "Valid",
+    "errors": [],
+    "source_file": "valid_ledger.csv"
+  },
+  {
+    "id": "58a2114c-d6d2-445f-ba57-a72208335fbb",
+    "date": "2025-01-15",
+    "description": "Paid monthly rent",
+    "account": "Rent Expense",
+    "debit": "1500.00",
+    "credit": "0.00",
+    "status": "Valid",
+    "errors": [],
+    "source_file": "valid_ledger.csv"
+  },
+  {
+    "id": "eca7b384-90f2-4b45-8a62-1dfae861618d",
+    "date": "2025-01-20",
+    "description": "Purchased office supplies",
+    "account": "Office Supplies",
+    "debit": "450.00",
+    "credit": "0.00",
+    "status": "Valid",
+    "errors": [],
+    "source_file": "valid_ledger.csv"
+  },
+  {
+    "id": "fb2cbf79-2eb9-4617-b9ed-120a4a1f96d3",
+    "date": "2025-01-20",
+    "description": "Purchased office supplies",
+    "account": "Accounts Payable",
+    "debit": "0.00",
+    "credit": "450.00",
+    "status": "Valid",
+    "errors": [],
+    "source_file": "valid_ledger.csv"
+  },
+  {
+    "id": "c6a81811-49f3-4e8c-8cb8-760581c4261a",
+    "date": "2025-02-01",
+    "description": "Received cash for services",
+    "account": "Cash",
+    "debit": "3200.00",
+    "credit": "0.00",
+    "status": "Valid",
+    "errors": [],
+    "source_file": "valid_ledger.csv"
+  },
+  {
+    "id": "c6a95cc6-ef3a-4d1f-b5aa-6890e8c30a3e",
+    "date": "2025-02-01",
+    "description": "Received cash for services",
+    "account": "Revenue",
+    "debit": "0.00",
+    "credit": "3200.00",
+    "status": "Valid",
+    "errors": [],
+    "source_file": "valid_ledger.csv"
+  },
+  {
+    "id": "98292c20-f5de-4c2f-9d61-92bc02b694ed",
+    "date": "2025-02-15",
+    "description": "Paid previous vendor bill",
+    "account": "Accounts Payable",
+    "debit": "750.00",
+    "credit": "0.00",
+    "status": "Valid",
+    "errors": [],
+    "source_file": "valid_ledger.csv"
+  },
+  {
+    "id": "e378fe72-0f74-48a0-9d9f-73cb227a638d",
+    "date": "2025-02-15",
+    "description": "Paid previous vendor bill",
+    "account": "Cash",
+    "debit": "0.00",
+    "credit": "750.00",
+    "status": "Valid",
+    "errors": [],
+    "source_file": "valid_ledger.csv"
+  }
+]

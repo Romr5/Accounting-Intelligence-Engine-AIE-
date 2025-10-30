@@ -1,0 +1,11 @@
+Date,Description,Account,Debit,Credit
+2025-03-01,Major equipment purchase,Office Supplies,75000.00,0.00
+2025-03-01,Major equipment purchase,Accounts Payable,0.00,75000.00
+2025-03-15,Error Correction/Refund,Revenue,500.00,0.00
+2025-03-15,Error Correction/Refund,Cash,0.00,500.00
+2025-04-01,Threshold Test Transaction,Cash,50000.00,0.00
+2025-04-01,Threshold Test Transaction,Capital,0.00,50000.00
+2025-04-10,New business loan received,Cash,150000.00,0.00
+2025-04-10,New business loan received,Accounts Payable,0.00,150000.00
+2025-04-20,Service cancellation processing,Revenue,120.00,0.00
+2025-04-20,Service cancellation processing,Cash,0.00,120.00

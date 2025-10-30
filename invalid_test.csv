@@ -1,0 +1,6 @@
+TransactionDate,Desc,Acc,Dr,Cr
+2023-01-01,Initial Cash,Cash,1000.00,
+2023-01-02,Office Supplies Purchase,Office Supplies,200.00,
+2023-01-03,Revenue from Services,Revenue,,500.00
+2023-01-04,Salary Expense,Salaries,300.00,
+2023-01-05,Rent Payment,Rent Expense,150.00,
